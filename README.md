@@ -59,7 +59,7 @@ I enjoy building **web applications, mobile apps and scalable software solutions
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=romerosergi&show_icons=true&theme=tokyonight)
 
@@ -67,7 +67,7 @@ I enjoy building **web applications, mobile apps and scalable software solutions
 
 ---
 
-# 🚀 Current Goals
+# Current Goals
 
 - Improve my **full-stack development skills**
 - Build **real-world projects**
@@ -76,10 +76,11 @@ I enjoy building **web applications, mobile apps and scalable software solutions
 
 ---
 
-# 📫 Contact
+# Contact
 
-📧 Email: **sergioromerocorredor@gmail.com**  
-📱 Phone: **+34 640 25 40 70**
+Email: **sergioromerocorredor@gmail.com**  
+Phone: **+34 640 25 40 70**
+Portfolio: https://portfolio-taupe-one-4xdtmuphr3.vercel.app/
 
 ---
 
