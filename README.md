@@ -80,6 +80,7 @@ I enjoy building **web applications, mobile apps and scalable software solutions
 
 Email: **sergioromerocorredor@gmail.com**  
 Phone: **+34 640 25 40 70**
+
 Portfolio: https://portfolio-taupe-one-4xdtmuphr3.vercel.app/
 
 ---
